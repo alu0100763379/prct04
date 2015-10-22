@@ -16,3 +16,5 @@ Hello, World
 ruby:
 
 Hello, World
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
